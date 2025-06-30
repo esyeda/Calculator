@@ -8,7 +8,7 @@ class Calc:
     def sub(self, a, b):
         """Subtract two numbers"""
         return a - b
-    
+
     def mul(self, a, b):
         """Multiply two numbers"""
         return a * b
